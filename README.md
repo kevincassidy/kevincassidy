@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello 👋
 
 i am learning to make a website
 
