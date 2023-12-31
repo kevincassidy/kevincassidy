@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is a test
+i am learning to make a website
 
 <!--
 **kevincassidy/kevincassidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
